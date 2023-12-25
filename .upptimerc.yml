@@ -27,6 +27,9 @@ sites:
   - name: ShockHost Server
     check: "tcp-ping"
     url: 216.120.200.106
+  - name: BlueHost Server
+    check: "tcp-ping"
+    url: 162.241.30.65
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
