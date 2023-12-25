@@ -11,7 +11,24 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: NancyLoedy Site
+    url: https://nancyloedy.com
+  - name: Loedy Solutions
+    url: https://loedysolutions.com
+  - name: The Kadie Way
+    url: https://thekadieway.com
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: GoDaddy Server
+    check: "tcp-ping"
+    url: 198.12.240.219
+    port: 53
+  - name: ShockHost Server
+    check: "tcp-ping"
+    url: 216.120.200.106
+    port: 53
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
