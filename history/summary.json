@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 95,
-    "timeWeek": 252,
+    "timeWeek": 229,
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {}
@@ -188,9 +188,9 @@
     "url": "162.241.30.65",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blue-host-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,6 +199,8 @@
     "timeWeek": 42,
     "timeMonth": 47,
     "timeYear": 47,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   }
 ]
