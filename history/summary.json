@@ -112,19 +112,19 @@
     "url": "https://thekadieway.com",
     "icon": "https://icons.duckduckgo.com/ip3/thekadieway.com.ico",
     "slug": "the-kadie-way",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 232,
-    "timeWeek": 275,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 327,
+    "timeDay": 668,
+    "timeWeek": 367,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-01-07": 0
+      "2024-01-07": 44
     }
   },
   {
