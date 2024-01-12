@@ -60,18 +60,20 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 448,
     "timeDay": 329,
     "timeWeek": 612,
     "timeMonth": 448,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 2
+    }
   },
   {
     "name": "Whole Minded Health",
@@ -96,28 +98,30 @@
     "url": "https://loedysolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/loedysolutions.com.ico",
     "slug": "loedy-solutions",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 308,
     "timeDay": 372,
     "timeWeek": 277,
     "timeMonth": 308,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 2
+    }
   },
   {
     "name": "The Kadie Way",
     "url": "https://thekadieway.com",
     "icon": "https://icons.duckduckgo.com/ip3/thekadieway.com.ico",
     "slug": "the-kadie-way",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 380,
@@ -126,6 +130,7 @@
     "timeMonth": 380,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2024-01-12": 1,
       "2024-01-07": 44
     }
   },
