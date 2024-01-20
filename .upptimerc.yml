@@ -23,7 +23,7 @@ sites:
     port: 53
   - name: GoDaddy Server
     check: "tcp-ping"
-    url: 198.12.240.219
+    url: 198.12.241.102
   - name: ShockHost Server
     check: "tcp-ping"
     url: 216.120.200.106
