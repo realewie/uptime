@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/loedysolutions.com.ico",
     "slug": "loedy-solutions",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.58%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.00%",
     "time": 393,
     "timeDay": 509,
     "timeWeek": 558,
@@ -200,9 +200,9 @@
     "url": "162.241.30.65",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blue-host-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -212,6 +212,7 @@
     "timeMonth": 53,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2024-02-28": 0,
       "2024-02-08": 17
     }
   }
