@@ -49,7 +49,7 @@
     "time": 281,
     "timeDay": 92,
     "timeWeek": 178,
-    "timeMonth": 277,
+    "timeMonth": 266,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2024-01-10": 150
@@ -102,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/loedysolutions.com.ico",
     "slug": "loedy-solutions",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 454,
     "timeDay": 489,
     "timeWeek": 516,
@@ -124,9 +124,9 @@
     "url": "https://thekadieway.com",
     "icon": "https://icons.duckduckgo.com/ip3/thekadieway.com.ico",
     "slug": "the-kadie-way",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -136,6 +136,7 @@
     "timeMonth": 242,
     "timeYear": 274,
     "dailyMinutesDown": {
+      "2024-03-29": 0,
       "2024-01-07": 44
     }
   },
