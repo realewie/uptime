@@ -101,10 +101,10 @@
     "url": "https://loedysolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/loedysolutions.com.ico",
     "slug": "loedy-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "98.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.24%",
     "time": 470,
@@ -113,6 +113,7 @@
     "timeMonth": 563,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2024-04-16": 1,
       "2024-03-08": 53,
       "2024-02-09": 1317,
       "2024-02-08": 1440,
@@ -183,9 +184,9 @@
     "url": "50.62.146.67",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-daddy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -195,6 +196,7 @@
     "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
+      "2024-04-16": 0,
       "2024-03-08": 52,
       "2023-12-25": 6
     }
