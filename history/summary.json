@@ -60,9 +60,9 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 339,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   },
   {
     "name": "Whole Minded Health",
@@ -144,12 +146,12 @@
     "slug": "the-kadie-way",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "22.30%",
+    "uptimeDay": "49.22%",
     "uptimeWeek": "88.90%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "99.03%",
     "time": 344,
-    "timeDay": 1575,
+    "timeDay": 1152,
     "timeWeek": 905,
     "timeMonth": 450,
     "timeYear": 344,
