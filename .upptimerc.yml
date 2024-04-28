@@ -13,12 +13,12 @@ sites:
     url: https://nancyloedy.com
   - name: Whole Minded Health
     url: https://wholemindedhealth.com
-  - name: Loedy Solutions
-    url: https://loedysolutions.com
+  - name: Loedy Systems
+    url: https://loedysystems.com
   - name: Crossinology
     url: https://crossinology.com
-  - name: The Kadie Way
-    url: https://thekadieway.com
+  - name: Mammoth Plumbing
+    url: https://mammothplumbingofdenver.com
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
