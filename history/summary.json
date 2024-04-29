@@ -60,19 +60,19 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 327,
-    "timeDay": 378,
-    "timeWeek": 322,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 329,
+    "timeDay": 380,
+    "timeWeek": 326,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-04-29": 26
+      "2024-04-29": 35
     }
   },
   {
