@@ -61,18 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 340,
-    "timeDay": 406,
-    "timeWeek": 341,
+    "timeDay": 410,
+    "timeWeek": 345,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-05-01": 13,
       "2024-04-29": 26
     }
   },
@@ -81,9 +80,9 @@
     "url": "https://wholemindedhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/wholemindedhealth.com.ico",
     "slug": "whole-minded-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -93,6 +92,7 @@
     "timeMonth": 1088,
     "timeYear": 1665,
     "dailyMinutesDown": {
+      "2024-05-01": 0,
       "2024-03-13": 101,
       "2024-02-16": 98,
       "2024-02-15": 52,
@@ -105,19 +105,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/loedysystems.com.ico",
     "slug": "loedy-systems",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1088,
-    "timeDay": 1088,
+    "timeDay": 1097,
     "timeWeek": 1088,
     "timeMonth": 1088,
     "timeYear": 1088,
-    "dailyMinutesDown": {
-      "2024-05-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Crossinology",
@@ -143,19 +141,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mammothplumbingofdenver.com.ico",
     "slug": "mammoth-plumbing",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 495,
     "timeDay": 326,
     "timeWeek": 495,
     "timeMonth": 495,
     "timeYear": 495,
-    "dailyMinutesDown": {
-      "2024-05-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
