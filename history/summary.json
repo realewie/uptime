@@ -105,19 +105,19 @@
     "url": "https://loedysystems.com",
     "icon": "https://icons.duckduckgo.com/ip3/loedysystems.com.ico",
     "slug": "loedy-systems",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 820,
-    "timeWeek": 985,
-    "timeMonth": 985,
-    "timeYear": 985,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 919,
+    "timeDay": 714,
+    "timeWeek": 919,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2024-05-02": 0
+      "2024-05-02": 8
     }
   },
   {
