@@ -19,6 +19,8 @@ sites:
     url: https://crossinology.com
   - name: Mammoth Plumbing
     url: https://mammothplumbingofdenver.com
+  - name: Meal Driver
+    url: https://mealdriver.net
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
