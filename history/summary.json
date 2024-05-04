@@ -62,18 +62,19 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 341,
     "timeDay": 381,
     "timeWeek": 351,
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2024-04-29": 26
     }
   },
@@ -105,9 +106,9 @@
     "url": "https://loedysystems.com",
     "icon": "https://icons.duckduckgo.com/ip3/loedysystems.com.ico",
     "slug": "loedy-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +117,9 @@
     "timeWeek": 908,
     "timeMonth": 908,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-04": 0
+    }
   },
   {
     "name": "Crossinology",
