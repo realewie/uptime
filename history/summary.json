@@ -65,12 +65,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 346,
     "timeDay": 336,
-    "timeWeek": 372,
+    "timeWeek": 376,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "time": 1665,
     "timeDay": 348,
     "timeWeek": 1347,
-    "timeMonth": 1298,
+    "timeMonth": 940,
     "timeYear": 1665,
     "dailyMinutesDown": {
       "2024-03-13": 101,
@@ -141,9 +141,9 @@
     "url": "https://mammothplumbingofdenver.com",
     "icon": "https://icons.duckduckgo.com/ip3/mammothplumbingofdenver.com.ico",
     "slug": "mammoth-plumbing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,9 @@
     "timeWeek": 310,
     "timeMonth": 367,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "Meal Driver",
