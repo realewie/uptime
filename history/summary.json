@@ -62,18 +62,19 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 346,
     "timeDay": 337,
-    "timeWeek": 365,
+    "timeWeek": 357,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2024-05-08": 0,
       "2024-04-29": 26
     }
   },
@@ -113,7 +114,7 @@
     "uptimeYear": "100.00%",
     "time": 899,
     "timeDay": 910,
-    "timeWeek": 828,
+    "timeWeek": 805,
     "timeMonth": 899,
     "timeYear": 899,
     "dailyMinutesDown": {}
@@ -149,7 +150,7 @@
     "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 227,
-    "timeWeek": 285,
+    "timeWeek": 281,
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {}
