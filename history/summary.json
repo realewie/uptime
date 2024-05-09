@@ -63,14 +63,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 349,
     "timeDay": 397,
-    "timeWeek": 379,
+    "timeWeek": 377,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -114,7 +114,7 @@
     "uptimeYear": "100.00%",
     "time": 906,
     "timeDay": 1036,
-    "timeWeek": 955,
+    "timeWeek": 946,
     "timeMonth": 906,
     "timeYear": 906,
     "dailyMinutesDown": {}
@@ -196,9 +196,9 @@
     "url": "50.62.146.67",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-daddy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -208,6 +208,7 @@
     "timeMonth": 43,
     "timeYear": 48,
     "dailyMinutesDown": {
+      "2024-05-09": 0,
       "2024-03-08": 52,
       "2023-12-25": 6
     }
