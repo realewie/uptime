@@ -21,6 +21,8 @@ sites:
     url: https://mammothplumbingofdenver.com
   - name: Meal Driver
     url: https://mealdriver.net
+  - name: 24-7 Burger
+    url: https://24-7burger.com
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
