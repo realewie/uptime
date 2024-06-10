@@ -1,7 +1,7 @@
 url: https://order.mealdriver.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-10T05:32:26.948Z
+status: up
+code: 200
+responseTime: 1364
+lastUpdated: 2024-06-10T05:40:50.743Z
 startTime: 2024-05-18T15:28:48.176Z
 generator: Upptime <https://github.com/upptime/upptime>
