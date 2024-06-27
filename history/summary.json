@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 97,
     "timeDay": 72,
-    "timeWeek": 92,
+    "timeWeek": 95,
     "timeMonth": 83,
     "timeYear": 97,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 226,
     "timeDay": 160,
-    "timeWeek": 192,
+    "timeWeek": 166,
     "timeMonth": 168,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "99.97%",
     "time": 275,
     "timeDay": 360,
-    "timeWeek": 253,
+    "timeWeek": 238,
     "timeMonth": 281,
     "timeYear": 275,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "99.98%",
     "time": 380,
     "timeDay": 405,
-    "timeWeek": 362,
+    "timeWeek": 357,
     "timeMonth": 437,
     "timeYear": 380,
     "dailyMinutesDown": {
@@ -90,7 +90,7 @@
     "uptimeYear": "99.77%",
     "time": 1679,
     "timeDay": 375,
-    "timeWeek": 567,
+    "timeWeek": 592,
     "timeMonth": 1596,
     "timeYear": 1679,
     "dailyMinutesDown": {
@@ -112,18 +112,20 @@
     "url": "https://crossinology.com",
     "icon": "https://icons.duckduckgo.com/ip3/crossinology.com.ico",
     "slug": "crossinology",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1014,
     "timeDay": 1717,
-    "timeWeek": 1267,
+    "timeWeek": 1212,
     "timeMonth": 1046,
     "timeYear": 1014,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   },
   {
     "name": "McKinney BI",
@@ -138,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 1186,
     "timeDay": 1101,
-    "timeWeek": 1186,
+    "timeWeek": 1107,
     "timeMonth": 1186,
     "timeYear": 1186,
     "dailyMinutesDown": {}
@@ -192,7 +194,7 @@
     "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 422,
-    "timeWeek": 347,
+    "timeWeek": 345,
     "timeMonth": 322,
     "timeYear": 330,
     "dailyMinutesDown": {}
@@ -210,7 +212,7 @@
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 203,
-    "timeWeek": 205,
+    "timeWeek": 198,
     "timeMonth": 225,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -228,7 +230,7 @@
     "uptimeYear": "99.97%",
     "time": 705,
     "timeDay": 802,
-    "timeWeek": 667,
+    "timeWeek": 788,
     "timeMonth": 718,
     "timeYear": 705,
     "dailyMinutesDown": {
@@ -241,14 +243,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "90.09%",
+    "uptime": "90.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.09%",
+    "uptimeYear": "90.23%",
     "time": 446,
     "timeDay": 284,
-    "timeWeek": 424,
+    "timeWeek": 450,
     "timeMonth": 440,
     "timeYear": 446,
     "dailyMinutesDown": {
@@ -290,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 6,
-    "timeWeek": 5,
+    "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -308,7 +310,7 @@
     "uptimeYear": "99.98%",
     "time": 51,
     "timeDay": 58,
-    "timeWeek": 48,
+    "timeWeek": 46,
     "timeMonth": 64,
     "timeYear": 51,
     "dailyMinutesDown": {
@@ -329,7 +331,7 @@
     "uptimeYear": "100.00%",
     "time": 39,
     "timeDay": 47,
-    "timeWeek": 36,
+    "timeWeek": 34,
     "timeMonth": 38,
     "timeYear": 39,
     "dailyMinutesDown": {
@@ -349,7 +351,7 @@
     "uptimeYear": "99.99%",
     "time": 48,
     "timeDay": 67,
-    "timeWeek": 48,
+    "timeWeek": 44,
     "timeMonth": 50,
     "timeYear": 48,
     "dailyMinutesDown": {
