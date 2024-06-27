@@ -112,19 +112,19 @@
     "url": "https://crossinology.com",
     "icon": "https://icons.duckduckgo.com/ip3/crossinology.com.ico",
     "slug": "crossinology",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 1717,
-    "timeWeek": 1212,
-    "timeMonth": 1046,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1008,
+    "timeDay": 1145,
+    "timeWeek": 1132,
+    "timeMonth": 1031,
+    "timeYear": 1008,
     "dailyMinutesDown": {
-      "2024-06-27": 0
+      "2024-06-27": 12
     }
   },
   {
