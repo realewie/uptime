@@ -130,9 +130,9 @@
     "url": "https://mckinney-bi.com",
     "icon": "https://icons.duckduckgo.com/ip3/mckinney-bi.com.ico",
     "slug": "mc-kinney-bi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 866,
     "timeMonth": 956,
     "timeYear": 956,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-07": 0
+    }
   },
   {
     "name": "McKinney Physical Therapy",
@@ -243,11 +245,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "92.10%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.10%",
+    "uptimeYear": "92.19%",
     "time": 447,
     "timeDay": 735,
     "timeWeek": 441,
