@@ -64,9 +64,9 @@
     "slug": "nancy-loedy-com",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 402,
     "timeDay": 286,
@@ -74,7 +74,7 @@
     "timeMonth": 487,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-07-28": 4,
+      "2024-07-28": 11,
       "2024-04-29": 26
     }
   },
@@ -114,18 +114,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crossinology.com.ico",
     "slug": "crossinology",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 802,
     "timeDay": 264,
     "timeWeek": 351,
     "timeMonth": 320,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2024-07-28": 3
+      "2024-07-28": 11
     }
   },
   {
@@ -190,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mammothplumbingofdenver.com.ico",
     "slug": "mammoth-plumbing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 336,
     "timeDay": 260,
     "timeWeek": 367,
     "timeMonth": 351,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-07-28": 3
+      "2024-07-28": 10
     }
   },
   {
@@ -209,19 +209,19 @@
     "url": "https://mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/mealdriver.net.ico",
     "slug": "meal-driver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 780,
-    "timeWeek": 1625,
-    "timeMonth": 963,
-    "timeYear": 460,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 538,
+    "timeDay": 4368,
+    "timeWeek": 2416,
+    "timeMonth": 1188,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-07-28": 2
+      "2024-07-28": 9
     }
   },
   {
@@ -273,19 +273,19 @@
     "url": "https://24-7burger.com",
     "icon": "https://icons.duckduckgo.com/ip3/24-7burger.com.ico",
     "slug": "24-7-burger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 271,
-    "timeDay": 226,
-    "timeWeek": 296,
-    "timeMonth": 275,
+    "timeDay": 244,
+    "timeWeek": 292,
+    "timeMonth": 274,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-07-28": 1
+      "2024-07-28": 9
     }
   },
   {
@@ -332,19 +332,19 @@
     "url": "216.120.200.106",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shock-host-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 25,
+    "timeDay": 32,
     "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-07-28": 0,
+      "2024-07-28": 8,
       "2023-12-25": 6
     }
   },
