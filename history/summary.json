@@ -62,11 +62,11 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 401,
     "timeDay": 314,
@@ -74,7 +74,7 @@
     "timeMonth": 482,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-07-28": 17,
+      "2024-07-28": 21,
       "2024-04-29": 26
     }
   },
@@ -113,11 +113,11 @@
     "url": "https://crossinology.com",
     "icon": "https://icons.duckduckgo.com/ip3/crossinology.com.ico",
     "slug": "crossinology",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 798,
     "timeDay": 328,
@@ -125,7 +125,7 @@
     "timeMonth": 322,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-07-28": 17
+      "2024-07-28": 20
     }
   },
   {
@@ -189,10 +189,10 @@
     "url": "https://mammothplumbingofdenver.com",
     "icon": "https://icons.duckduckgo.com/ip3/mammothplumbingofdenver.com.ico",
     "slug": "mammoth-plumbing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 336,
@@ -201,7 +201,7 @@
     "timeMonth": 351,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-07-28": 17
+      "2024-07-28": 20
     }
   },
   {
@@ -209,10 +209,10 @@
     "url": "https://mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/mealdriver.net.ico",
     "slug": "meal-driver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
@@ -220,7 +220,9 @@
     "timeWeek": 2416,
     "timeMonth": 1188,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 2
+    }
   },
   {
     "name": "Meal Driver (Orders)",
@@ -271,10 +273,10 @@
     "url": "https://24-7burger.com",
     "icon": "https://icons.duckduckgo.com/ip3/24-7burger.com.ico",
     "slug": "24-7-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
@@ -282,7 +284,9 @@
     "timeWeek": 292,
     "timeMonth": 274,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 1
+    }
   },
   {
     "name": "Google DNS 1",
@@ -328,9 +332,9 @@
     "url": "216.120.200.106",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shock-host-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -340,6 +344,7 @@
     "timeMonth": 36,
     "timeYear": 39,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2023-12-25": 6
     }
   },
