@@ -151,19 +151,19 @@
     "url": "https://www.prescottpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prescottpt.com.ico",
     "slug": "mc-kinney-physical-therapy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 470,
-    "timeWeek": 332,
-    "timeMonth": 496,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 517,
+    "timeDay": 1187,
+    "timeWeek": 529,
+    "timeMonth": 540,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-07-31": 0
+      "2024-07-31": 11
     }
   },
   {
