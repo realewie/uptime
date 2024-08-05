@@ -62,10 +62,10 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 399,
@@ -74,6 +74,7 @@
     "timeMonth": 453,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2024-08-05": 2,
       "2024-07-28": 17,
       "2024-04-29": 26
     }
@@ -209,10 +210,10 @@
     "url": "https://mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/mealdriver.net.ico",
     "slug": "meal-driver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
@@ -220,7 +221,9 @@
     "timeWeek": 1016,
     "timeMonth": 1314,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 1
+    }
   },
   {
     "name": "Meal Driver (Orders)",
@@ -248,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "95.02%",
+    "uptime": "95.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.02%",
+    "uptimeYear": "95.07%",
     "time": 456,
     "timeDay": 585,
     "timeWeek": 525,
@@ -271,9 +274,9 @@
     "url": "https://24-7burger.com",
     "icon": "https://icons.duckduckgo.com/ip3/24-7burger.com.ico",
     "slug": "24-7-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -282,7 +285,9 @@
     "timeWeek": 292,
     "timeMonth": 284,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "Google DNS 1",
