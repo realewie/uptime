@@ -64,9 +64,9 @@
     "slug": "nancy-loedy-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 399,
     "timeDay": 364,
@@ -74,7 +74,6 @@
     "timeMonth": 449,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2024-08-05": 8,
       "2024-07-28": 17,
       "2024-04-29": 26
     }
@@ -211,19 +210,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mealdriver.net.ico",
     "slug": "meal-driver",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 846,
     "timeWeek": 964,
     "timeMonth": 1293,
     "timeYear": 583,
-    "dailyMinutesDown": {
-      "2024-08-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Meal Driver (Orders)",
@@ -251,11 +248,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.08%",
     "time": 456,
     "timeDay": 585,
     "timeWeek": 525,
@@ -275,19 +272,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/24-7burger.com.ico",
     "slug": "24-7-burger",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 300,
     "timeWeek": 291,
     "timeMonth": 284,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2024-08-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
@@ -312,9 +307,9 @@
     "url": "50.62.146.67",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-daddy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -324,6 +319,7 @@
     "timeMonth": 45,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2024-08-05": 0,
       "2024-03-08": 52,
       "2023-12-25": 6
     }
