@@ -209,10 +209,10 @@
     "url": "https://mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/mealdriver.net.ico",
     "slug": "meal-driver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
@@ -220,16 +220,18 @@
     "timeWeek": 953,
     "timeMonth": 1302,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 2
+    }
   },
   {
     "name": "Meal Driver (Orders)",
     "url": "https://order.mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/order.mealdriver.net.ico",
     "slug": "meal-driver-orders",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -239,6 +241,7 @@
     "timeMonth": 449,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2024-08-22": 0,
       "2024-06-10": 16
     }
   },
@@ -248,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "95.91%",
+    "uptime": "95.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.91%",
+    "uptimeYear": "95.92%",
     "time": 455,
     "timeDay": 300,
     "timeWeek": 453,
