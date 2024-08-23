@@ -62,18 +62,19 @@
     "url": "https://nancyloedy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 395,
     "timeDay": 256,
     "timeWeek": 313,
     "timeMonth": 373,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2024-08-23": 5,
       "2024-07-28": 17,
       "2024-04-29": 26
     }
@@ -113,11 +114,11 @@
     "url": "https://crossinology.com",
     "icon": "https://icons.duckduckgo.com/ip3/crossinology.com.ico",
     "slug": "crossinology",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 710,
     "timeDay": 310,
@@ -125,6 +126,7 @@
     "timeMonth": 342,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2024-08-23": 4,
       "2024-07-28": 17
     }
   },
@@ -189,11 +191,11 @@
     "url": "https://mammothplumbingofdenver.com",
     "icon": "https://icons.duckduckgo.com/ip3/mammothplumbingofdenver.com.ico",
     "slug": "mammoth-plumbing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 341,
     "timeDay": 255,
@@ -201,6 +203,7 @@
     "timeMonth": 364,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2024-08-23": 4,
       "2024-07-28": 17
     }
   },
@@ -209,18 +212,20 @@
     "url": "https://mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/mealdriver.net.ico",
     "slug": "meal-driver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 657,
-    "timeDay": 2236,
+    "timeDay": 797,
     "timeWeek": 1295,
     "timeMonth": 1371,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 3
+    }
   },
   {
     "name": "Meal Driver (Orders)",
@@ -234,7 +239,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 590,
-    "timeDay": 453,
+    "timeDay": 387,
     "timeWeek": 444,
     "timeMonth": 452,
     "timeYear": 590,
@@ -248,11 +253,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.95%",
+    "uptimeYear": "95.98%",
     "time": 455,
     "timeDay": 410,
     "timeWeek": 469,
@@ -271,18 +276,20 @@
     "url": "https://24-7burger.com",
     "icon": "https://icons.duckduckgo.com/ip3/24-7burger.com.ico",
     "slug": "24-7-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 229,
     "timeWeek": 256,
     "timeMonth": 282,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 3
+    }
   },
   {
     "name": "Google DNS 1",
@@ -307,10 +314,10 @@
     "url": "50.62.146.67",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-daddy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 50,
@@ -319,6 +326,7 @@
     "timeMonth": 44,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2024-08-23": 2,
       "2024-03-08": 52,
       "2023-12-25": 6
     }
@@ -328,9 +336,9 @@
     "url": "216.120.200.106",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shock-host-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -340,6 +348,7 @@
     "timeMonth": 37,
     "timeYear": 39,
     "dailyMinutesDown": {
+      "2024-08-23": 0,
       "2023-12-25": 6
     }
   },
