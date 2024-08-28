@@ -1,7 +1,7 @@
 url: https://fleet.mealdriver.net
-status: down
-code: 500
-responseTime: 199
-lastUpdated: 2024-08-28T05:20:45.304Z
+status: up
+code: 200
+responseTime: 761
+lastUpdated: 2024-08-28T05:31:25.826Z
 startTime: 2024-05-18T15:28:48.952Z
 generator: Upptime <https://github.com/upptime/upptime>
