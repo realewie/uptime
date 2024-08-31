@@ -160,7 +160,7 @@
     "time": 551,
     "timeDay": 336,
     "timeWeek": 580,
-    "timeMonth": 637,
+    "timeMonth": 597,
     "timeYear": 551,
     "dailyMinutesDown": {}
   },
@@ -248,11 +248,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.29%",
     "time": 450,
     "timeDay": 424,
     "timeWeek": 429,
@@ -307,9 +307,9 @@
     "url": "50.62.146.67",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-daddy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -319,6 +319,7 @@
     "timeMonth": 48,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2024-08-31": 0,
       "2024-03-08": 52,
       "2023-12-25": 6
     }
