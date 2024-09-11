@@ -169,9 +169,9 @@
     "url": "https://prescottbrainintegration.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prescottbrainintegration.com.ico",
     "slug": "prescott-bi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -181,6 +181,7 @@
     "timeMonth": 1477,
     "timeYear": 1538,
     "dailyMinutesDown": {
+      "2024-09-11": 0,
       "2024-06-28": 24
     }
   },
@@ -248,11 +249,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.62%",
+    "uptimeYear": "96.64%",
     "time": 457,
     "timeDay": 752,
     "timeWeek": 483,
