@@ -133,19 +133,19 @@
     "url": "https://mckinney-bi.com",
     "icon": "https://icons.duckduckgo.com/ip3/mckinney-bi.com.ico",
     "slug": "mc-kinney-bi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 893,
-    "timeWeek": 872,
-    "timeMonth": 779,
-    "timeYear": 905,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 902,
+    "timeDay": 817,
+    "timeWeek": 844,
+    "timeMonth": 773,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 17
     }
   },
   {
