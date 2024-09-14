@@ -230,9 +230,9 @@
     "url": "https://order.mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/order.mealdriver.net.ico",
     "slug": "meal-driver-orders",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -242,6 +242,7 @@
     "timeMonth": 428,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-06-10": 16
     }
   },
@@ -250,9 +251,9 @@
     "url": "https://fleet.mealdriver.net",
     "icon": "https://icons.duckduckgo.com/ip3/fleet.mealdriver.net.ico",
     "slug": "meal-driver-fleet",
-    "status": "up",
+    "status": "down",
     "uptime": "96.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.70%",
@@ -262,6 +263,7 @@
     "timeMonth": 447,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-05-22": 787,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
