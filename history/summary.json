@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nancyloedy.com.ico",
     "slug": "nancy-loedy-com",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 407,
     "timeDay": 355,
     "timeWeek": 377,
     "timeMonth": 464,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2024-11-26": 1,
+      "2024-11-26": 11,
       "2024-07-28": 17,
       "2024-04-29": 26
     }
@@ -116,9 +116,9 @@
     "slug": "crossinology",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 559,
     "timeDay": 303,
@@ -126,7 +126,7 @@
     "timeMonth": 305,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2024-11-26": 0,
+      "2024-11-26": 11,
       "2024-07-28": 17
     }
   },
@@ -247,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-11-26": 13,
+      "2024-11-26": 23,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-11-26": 13,
+      "2024-11-26": 23,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
