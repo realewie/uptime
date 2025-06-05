@@ -21,8 +21,6 @@ sites:
     url: https://www.prescottpt.com
   - name: Prescott BI
     url: https://prescottbrainintegration.com/
-  - name: Mammoth Plumbing
-    url: https://mammothplumbingofdenver.com
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
