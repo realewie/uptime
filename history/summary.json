@@ -157,10 +157,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/prescottbrainintegration.com.ico",
     "slug": "prescott-bi",
     "status": "down",
-    "uptime": "99.62%",
+    "uptime": "99.61%",
     "uptimeDay": "45.29%",
-    "uptimeWeek": "78.52%",
-    "uptimeMonth": "95.06%",
+    "uptimeWeek": "78.24%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "99.58%",
     "time": 2222,
     "timeDay": 7483,
@@ -168,7 +168,8 @@
     "timeMonth": 6071,
     "timeYear": 2374,
     "dailyMinutesDown": {
-      "2025-07-29": 769,
+      "2025-07-30": 9,
+      "2025-07-29": 789,
       "2025-07-28": 1019,
       "2025-07-27": 379,
       "2024-11-24": 18
