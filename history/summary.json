@@ -148,7 +148,7 @@
     "timeDay": 399,
     "timeWeek": 472,
     "timeMonth": 472,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://prescottbrainintegration.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prescottbrainintegration.com.ico",
     "slug": "prescott-bi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "9.30%",
+    "uptimeDay": "10.07%",
     "uptimeWeek": "43.01%",
     "uptimeMonth": "86.89%",
     "uptimeYear": "98.90%",
