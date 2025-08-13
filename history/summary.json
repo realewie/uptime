@@ -78,11 +78,11 @@
     "url": "https://wholemindedhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/wholemindedhealth.com.ico",
     "slug": "whole-minded-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1038,
     "timeDay": 425,
@@ -90,7 +90,7 @@
     "timeMonth": 399,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-08-13": 10,
+      "2025-08-13": 1,
       "2024-12-08": 15
     }
   },
@@ -139,11 +139,11 @@
     "url": "https://www.prescottpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prescottpt.com.ico",
     "slug": "mc-kinney-physical-therapy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 603,
     "timeDay": 2194,
@@ -151,7 +151,7 @@
     "timeMonth": 620,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-08-13": 9,
+      "2025-08-13": 0,
       "2025-08-05": 34
     }
   },
