@@ -78,18 +78,19 @@
     "url": "https://wholemindedhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/wholemindedhealth.com.ico",
     "slug": "whole-minded-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
+    "time": 1025,
     "timeDay": 539,
     "timeWeek": 458,
     "timeMonth": 424,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2024-12-08": 15
     }
   },
