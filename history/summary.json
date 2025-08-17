@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 415,
-    "timeWeek": 881,
+    "timeWeek": 950,
     "timeMonth": 628,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 288,
-    "timeWeek": 435,
+    "timeWeek": 436,
     "timeMonth": 410,
     "timeYear": 350,
     "dailyMinutesDown": {
@@ -176,11 +176,11 @@
     "url": "50.62.146.67",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-daddy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 49,
     "timeDay": 36,
@@ -188,7 +188,7 @@
     "timeMonth": 40,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2025-08-17": 11,
+      "2025-08-17": 0,
       "2025-08-07": 39,
       "2024-09-28": 106
     }
